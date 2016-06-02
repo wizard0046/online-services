@@ -1,0 +1,31 @@
+{
+  "name": "angTest",
+  "version": "0.0.0",
+  "authors": [
+    "Ashish <ashish.thapa@fonepay.com>"
+  ],
+  "description": "angular project",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.5",
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.2.3"
+  }
+}
